@@ -92,3 +92,11 @@ This repository will continue to grow as more LeetCode problems are solved.
 ---
 
 **Practice. Solve. Learn. Improve. 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3151-special-array-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3151-special-array-i) |
+<!---LeetCode Topics End-->
