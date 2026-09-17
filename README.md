@@ -108,6 +108,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -126,12 +127,14 @@ This repository will continue to grow as more LeetCode problems are solved.
 | ------- |
 | [0414-third-maximum-number](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [3467-transform-array-by-parity](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
