@@ -127,6 +127,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -139,6 +140,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [2553-separate-the-digits-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -146,6 +148,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
