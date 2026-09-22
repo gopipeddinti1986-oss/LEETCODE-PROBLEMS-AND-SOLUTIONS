@@ -105,6 +105,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [1512-number-of-good-pairs](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -221,4 +222,8 @@ This repository will continue to grow as more LeetCode problems are solved.
 | ------- |
 | [1534-count-good-triplets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2367-number-of-arithmetic-triplets) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
