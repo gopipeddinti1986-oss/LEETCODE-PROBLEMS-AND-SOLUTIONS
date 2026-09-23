@@ -98,6 +98,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [1313-decompress-run-length-encoded-list](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1313-decompress-run-length-encoded-list) |
@@ -153,6 +154,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -240,4 +242,8 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
