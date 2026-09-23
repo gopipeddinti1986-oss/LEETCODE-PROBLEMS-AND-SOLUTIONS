@@ -112,6 +112,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
