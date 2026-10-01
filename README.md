@@ -249,6 +249,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
