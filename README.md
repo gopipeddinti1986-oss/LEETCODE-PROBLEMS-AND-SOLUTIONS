@@ -115,6 +115,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [1534-count-good-triplets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1920-build-array-from-permutation](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -206,6 +207,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -316,4 +318,8 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0037-sudoku-solver) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
