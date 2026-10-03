@@ -98,6 +98,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0053-maximum-subarray) |
@@ -179,6 +180,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [1512-number-of-good-pairs](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -246,6 +248,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [1572-matrix-diagonal-sum](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
@@ -260,6 +263,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0077-combinations) |
@@ -272,6 +276,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0051-n-queens) |
 ## Dynamic Programming
 |  |
@@ -307,4 +312,8 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0075-sort-colors) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
