@@ -100,6 +100,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | ------- |
 | [0046-permutations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
@@ -276,9 +277,11 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
