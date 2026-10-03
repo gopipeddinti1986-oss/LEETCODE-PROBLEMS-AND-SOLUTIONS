@@ -100,6 +100,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | ------- |
 | [0046-permutations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0414-third-maximum-number) |
@@ -165,6 +166,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -215,6 +217,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0075-sort-colors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -293,4 +296,12 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
