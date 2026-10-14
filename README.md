@@ -228,6 +228,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
@@ -386,4 +387,5 @@ This repository will continue to grow as more LeetCode problems are solved.
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
