@@ -130,6 +130,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2974-minimum-number-game) |
@@ -196,6 +197,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -388,4 +390,12 @@ This repository will continue to grow as more LeetCode problems are solved.
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
