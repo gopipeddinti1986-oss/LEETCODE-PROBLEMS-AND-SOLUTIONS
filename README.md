@@ -161,6 +161,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -224,6 +225,7 @@ This repository will continue to grow as more LeetCode problems are solved.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/gopipeddinti1986-oss/LEETCODE-PROBLEMS-AND-SOLUTIONS/tree/master/3838-weighted-word-mapping) |
